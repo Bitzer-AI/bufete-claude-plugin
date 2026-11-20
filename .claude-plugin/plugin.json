@@ -1,0 +1,25 @@
+{
+  "name": "bufete",
+  "displayName": "Bufete",
+  "version": "0.1.0",
+  "description": "Legal research and firm work for lawyers who use Bufete. Search Dominican, Colombian, Mexican and United States law, court rulings and Dominican bills, brief a matter from its documents and court cases, and keep your tasks current. Needs a Bufete account.",
+  "author": {
+    "name": "Bufete AI",
+    "url": "https://bufete.ai"
+  },
+  "homepage": "https://bufete.ai",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://bufete.ai/en/privacy-policy/",
+  "repository": "https://github.com/Bitzer-AI/bufete-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "law",
+    "lawyers",
+    "case-law",
+    "legal-research",
+    "dominican-republic",
+    "colombia",
+    "mexico"
+  ]
+}

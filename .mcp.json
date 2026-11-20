@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bufete": {
+      "type": "http",
+      "url": "https://api.bufete.ai/mcp"
+    }
+  }
+}

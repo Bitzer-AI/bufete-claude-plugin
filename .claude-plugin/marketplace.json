@@ -1,0 +1,17 @@
+{
+  "name": "bufete-ai",
+  "owner": {
+    "name": "Bufete AI",
+    "url": "https://bufete.ai"
+  },
+  "metadata": {
+    "description": "The Bufete plugin for Claude: legal research and firm work for lawyers who use Bufete."
+  },
+  "plugins": [
+    {
+      "name": "bufete",
+      "source": "./",
+      "description": "Legal research and firm work for lawyers who use Bufete. Search Dominican, Colombian, Mexican and United States law, court rulings and Dominican bills, brief a matter from its documents and court cases, and keep your tasks current. Needs a Bufete account."
+    }
+  ]
+}
