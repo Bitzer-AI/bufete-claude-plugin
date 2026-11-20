@@ -10,6 +10,9 @@
   "homepage": "https://bufete.ai",
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://bufete.ai/en/privacy-policy/",
+  "termsOfServiceUrl": "https://bufete.ai/en/terms-of-service/",
+  "documentationUrl": "https://github.com/Bitzer-AI/bufete-claude-plugin#readme",
+  "supportUrl": "mailto:anthony@bufete.ai",
   "repository": "https://github.com/Bitzer-AI/bufete-claude-plugin",
   "license": "MIT",
   "keywords": [
